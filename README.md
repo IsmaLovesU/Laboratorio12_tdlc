@@ -2,6 +2,14 @@
 
 [Video de ejecución](https://youtu.be/dVz1yel4iPk)
 
+## Problema 1
+
+[📄 Ver respuestas.pdf](problema1/respuestas.pdf)
+
+<img src="problema1/respuestas_pagina1.png" width="700" alt="Problema 1 - página 1">
+<img src="problema1/respuestas_pagina2.png" width="700" alt="Problema 1 - página 2">
+<img src="problema1/respuestas_pagina3.png" width="700" alt="Problema 1 - página 3">
+
 ## Lenguaje utilizado
 
 Todos los programas están escritos en **JavaScript (Node.js)**. Las "funciones lambda" que pide el
