@@ -1,6 +1,6 @@
 # Laboratorio 12 - Teoría de la Computación
 
-[Video de ejecución]()
+[Video de ejecución](https://youtu.be/dVz1yel4iPk)
 
 ## Lenguaje utilizado
 
